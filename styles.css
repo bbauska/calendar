@@ -65,27 +65,30 @@ ul {
 
 .event {
 	border-radius:5px;
-	color:#10171C;
+	color:#10171c;
 	padding:5px;
 	margin:5px 0;
 }
 
 .dog-walk {
-	background-color:#A6F4FF;
+	background-color:#a6f4ff;
 }
 
 .school {
-	background-color:#BA9CE8;
+	background-color:#Ba9ce8;
 }
 
 .appointment {
-	background-color:#FF7E6D;
+	background-color:#ff7e6d;
 }
 
 .birthday {
-	background-color:#AFFFAD;
+	background-color:#afffad;
 }
 
 .holiday {
-	background-color:#E8E193;
+	background-color:#e8e193;
+}
+.first-fall {
+	background-color:#e8e993;
 }
