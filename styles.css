@@ -37,15 +37,15 @@ h1 {
 }
 
 .weekday-header {
-	background-color:#999;
-	border-color:#ddd;
+	background-color:#999;  /* dark gray */
+	border-color:#ddd;  /* very light gray */
 	border-style:solid;
 	letter-spacing:1px;
 	line-height:25px;
 }
 
 .week {
-	background-color:#eaeaea;
+	background-color:#eaeaea;  /* very light gray */
 	height:75px;
 	margin:0;
 	text-align:left;
@@ -53,7 +53,7 @@ h1 {
 }
 
 .off-day {
-	background-color:#ddd;
+	background-color:#ddd;  /* very light gray */
 }
 
 ul {
@@ -65,30 +65,75 @@ ul {
 
 .event {
 	border-radius:5px;
-	color:#10171c;
+	color:#10171c;  /* very dark (mostly black) blue */
 	padding:5px;
 	margin:5px 0;
 }
 
-.dog-walk {
-	background-color:#a6f4ff;
+.eat-a-apple {
+	background-color:#ff0000;  /* bright red */
+}
+.fritters {
+	background-color:#ffa500;  /* orange */
+}
+.giving-tue {
+	background-color:#ff0000;  /* bright red */
+}
+.disabilities {
+	background-color:#9ab3ff;  /* pale blue */
+}
+.wildlife-conservation {
+	background-color:#98fb98;  /* very soft lime green */
+}
+.inter-volunteer {
+	background-color:#a6f4ff;  /* pale cyan */
+}
+.cotton-candy {
+	background-color:#ffc0cb;  /* very pale red (pink) */
+}
+.candle-lighting {
+	background-color:#ffff00;  /* yellow */
+}
+.xmas-card {
+	background-color:#d3d3d3;  /* light gray */
+}
+.me-walk {
+	background-color:#00ff00;  /* dark green */
+}
+.cat-walk {
+	background-color:#cd00cd;  /* strong magenta */
+}
+.xmas-eve {
+	background-color:#ffd700;  /* gold */
+}
+.xmas-day {
+	background-color:#00ff00;  /* lime green */
 }
 
+
 .school {
-	background-color:#Ba9ce8;
+	background-color:#Ba9ce8;  /* very soft violet */
+}
+
+.newyears-eve {
+	background-color:#00eeee;  /* pure cyan */
 }
 
 .appointment {
-	background-color:#ff7e6d;
+	background-color:#ff7e6d;  /* very light red */
 }
 
 .birthday {
-	background-color:#afffad;
+	background-color:#afffad;  /* pale lime green */
 }
 
 .holiday {
-	background-color:#e8e193;
+	background-color:#e8e193;  /* very soft yellow */
 }
-.first-fall {
-	background-color:#e8e993;
+.first-winter {
+	background-color:#e8e993;  /* very soft yellow */
+}
+
+.newyears-eve {
+	background-color:#ff9a9a;  /* pale red (pink tone) */
 }
